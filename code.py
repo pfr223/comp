@@ -8,5 +8,6 @@ end_quote = page.find('"', start_quote + 1)
 url = page[start_quote+1:end_quote]
 
 print start_quote, end_quote
+<<<<<<< HEAD
 print url
-print "LOVE YOU"
+
