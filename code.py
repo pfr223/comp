@@ -9,3 +9,4 @@ url = page[start_quote+1:end_quote]
 
 print start_quote, end_quote
 print url
+print url
